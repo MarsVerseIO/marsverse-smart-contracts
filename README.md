@@ -29,6 +29,7 @@
   1) the address of the contract is MarsControl.sol
   2) the address of the MarsData.sol contract
   3) the address of the MarsObject.sol contract
+  4) the address of the MarsReferral.sol contract
 
 <b>7. Call MarsToken.setAddressMarsControl(Address of MarsControl.sol)</b>
 
@@ -38,8 +39,10 @@
 
 <b>10. Call MarsData.setAddressMarsReferral(Address of MarsReferral.sol)</b>
 
-<b>11. Call MarsControl.setAddressMarsReferral(Address of MarsReferral.sol)</b>
+<b>11. Call MarsReferral.setAddressMarsAirDrop(Address of MarsAirDrop.sol)</b>
 
-<b>12. Call MarsControl.setAddressMarsAirDrop(Address of MarsAirDrop.sol)</b>
+<b>12. Call MarsControl.setAddressMarsReferral(Address of MarsReferral.sol)</b>
 
-<b>13. Call MarsControl.startContract()</b>
+<b>13. Call MarsControl.setAddressMarsAirDrop(Address of MarsAirDrop.sol)</b>
+
+<b>14. Call MarsControl.startContract()</b>
