@@ -35,7 +35,7 @@
 
 <b>8. Call MarsObject.setAddressMarsControl(Address of MarsControl.sol)</b>
 
-<b>9. Call marsdata.setAddressMarsControl(Address of MarsControl.sol)</b>
+<b>9. Call MarsData.setAddressMarsControl(Address of MarsControl.sol)</b>
 
 <b>10. Call MarsData.setAddressMarsReferral(Address of MarsReferral.sol)</b>
 
