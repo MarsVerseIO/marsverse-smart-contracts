@@ -14,10 +14,10 @@
   3) _MarsData - address of the contract MarsData.sol
   4) _AdminAddress - the address of the admin where the money will be sent, if the addresses of the MarsPool and MarsChef pools are not installed
   5) _marsbot - the address of the bot that is given the opportunity to perform the auto_take() function
-  6) _solarrate - 100000000000 Wei (0.0000001 ETH) the rate for 1 solar
+  6) _solarrate - 100000000000 Wei the rate for 1 solar
   7) _SolarPriceIfZero - 1000 solar, if the price of the item is not determined, then this is the amount in solar
   8) _NeighboursRange - 100 distance between neighbors (if there are plots in this range, they are neighbors)
-  9) _MINPRICEPOLYGON - 100000000000000 (0.0001 eth) minimum price per polygon with 0 neighbors
+  9) _MINPRICEPOLYGON - 100000000000000 Wei minimum price per polygon with 0 neighbors
   10) _COEFPRICE - 10 .the price coefficient, where 1 is an increase in price by 100% for each guest, 10 is an increase in price by 10% for each guest,, 100 is an increase in price by 1% for each guest
 
 <b>5. Deploy the MarsReferral.sol contarct</b>
