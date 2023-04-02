@@ -10,11 +10,11 @@
 
 <b>4. Deploy the MarsControl.sol contarct</b>
   1) _MarsTokenAddress - the address of the contract MarsToken.sol
-  2) _MarsObject - address of the contract MarsObject.sol
-  3) _MarsData - address of the contract MarsData.sol
+  2) _MarsObject - the address of the contract MarsObject.sol
+  3) _MarsData - the address of the contract MarsData.sol
   4) _AdminAddress - the address of the admin where the money will be sent, if the addresses of the MarsPool and MarsChef pools are not installed
-  5) _marsbot - the address of the bot that is given the opportunity to perform the auto_take() function
-  6) _solarrate - 100000000000 Wei the rate for 1 solar
+  5) _MarsBot - the address of the bot that is given the opportunity to perform the auto_take() function
+  6) _SolarRate - 100000000000 Wei the rate for 1 solar
   7) _SolarPriceIfZero - 1000 solar, if the price of the item is not determined, then this is the amount in solar
   8) _NeighboursRange - 100 distance between neighbors (if there are plots in this range, they are neighbors)
   9) _MINPRICEPOLYGON - 100000000000000 Wei minimum price per polygon with 0 neighbors
