@@ -1,10 +1,10 @@
 <h1>Introduction</h1>
-MarsToken.sol - The contract of the main token of the project.
-MarsObject.sol - NFT Contract.
-Marcdata.sol - Project data (token storage, NFT efficiency data, events).
-Mars Control.sol - A contract for the daily distribution of MarsToken tokens among the owners of MarsObject, depending on their NFT efficiency.
-MarsReferral.sol - The contract of the referral system of the project.
-MarsAirDrop.sol - Airdrop project contract.
+<b>MarsToken.sol</b> - The contract of the main token of the project.<br>
+<b>MarsObject.sol</b> - NFT Contract.<br>
+<b>Marcdata.sol</b> - Project data (token storage, NFT efficiency data, events).<br>
+<b>Mars Control.sol</b> - A contract for the daily distribution of MarsToken tokens among the owners of MarsObject, depending on their NFT efficiency.<br>
+<b>MarsReferral.sol</b> - The contract of the referral system of the project.<br>
+<b>MarsAirDrop.sol</b> - Airdrop project contract.<br>
 
 <h1>Sequential deployment instruction</h1>
 
