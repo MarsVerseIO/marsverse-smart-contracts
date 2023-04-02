@@ -21,12 +21,12 @@
   10) _COEFPRICE - 10 .the price coefficient, where 1 is an increase in price by 100% for each guest, 10 is an increase in price by 10% for each guest,, 100 is an increase in price by 1% for each guest
 
 <b>5. Deploy the MarsReferral.sol contarct</b>
-  1) the address of the contract is MarsControl.sol
+  1) the address of the MarsControl.sol contract
   2) the address of the MarsData.sol contract
-  3) the address of the contract is MarsAirdrop.sol or 0x00000000000000000000000000000000000000000000 if not
+  3) the address of the MarsAirdrop.sol contract or 0x00000000000000000000000000000000000000000000 if not
 
 <b>6. Deploy the MarsAirDrop.sol contarct</b>
-  1) the address of the contract is MarsControl.sol
+  1) the address of the MarsControl.sol contract
   2) the address of the MarsData.sol contract
   3) the address of the MarsObject.sol contract
   4) the address of the MarsReferral.sol contract
